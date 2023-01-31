@@ -1,2 +1,2 @@
 # cadastro-clientes
-.\.venv\Scripts\activate
+.venv\Scripts\activate
